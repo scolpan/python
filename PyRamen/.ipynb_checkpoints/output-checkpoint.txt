@@ -1,0 +1,12 @@
+
+Menu Item: spicy miso ramen01-count:1847602-revenue:221712.003-cogs:9238004-profit:129332.0
+Menu Item: tori paitan ramen01-count:1831202-revenue:238056.003-cogs:10987204-profit:128184.0
+Menu Item: truffle butter ramen01-count:1796402-revenue:251496.003-cogs:12574804-profit:125748.0
+Menu Item: tonkotsu ramen01-count:1857602-revenue:241488.003-cogs:11145604-profit:130032.0
+Menu Item: vegetarian spicy miso01-count:1843202-revenue:221184.003-cogs:9216004-profit:129024.0
+Menu Item: shio ramen01-count:1836002-revenue:201960.003-cogs:9180004-profit:110160.0
+Menu Item: miso crab ramen01-count:1778002-revenue:213360.003-cogs:10668004-profit:106680.0
+Menu Item: nagomi shoyu01-count:1826402-revenue:200904.003-cogs:9132004-profit:109584.0
+Menu Item: soft-shell miso crab ramen01-count:1826002-revenue:255640.003-cogs:12782004-profit:127820.0
+Menu Item: burnt garlic tonkotsu ramen01-count:1814002-revenue:253960.003-cogs:10884004-profit:145120.0
+Menu Item: vegetarian curry + king trumpet mushroom ramen01-count:1764802-revenue:229424.003-cogs:12353604-profit:105888.0
